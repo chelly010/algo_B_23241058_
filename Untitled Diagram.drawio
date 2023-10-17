@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T03:31:24.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="nB_HlcYIYeFH0diX5RrK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T03:45:22.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="YZd7aXmGTWPTcmFptacQ" version="22.0.4" type="github">
   <diagram name="Page-1" id="CZPHJTNjEjbkpKJZF7Bt">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KobME-BbMO1FJqO6K6Fo-1" target="KobME-BbMO1FJqO6K6Fo-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-1" value="start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KobME-BbMO1FJqO6K6Fo-3" target="KobME-BbMO1FJqO6K6Fo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-3" value="bil" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="250" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KobME-BbMO1FJqO6K6Fo-5" target="KobME-BbMO1FJqO6K6Fo-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KobME-BbMO1FJqO6K6Fo-5" target="KobME-BbMO1FJqO6K6Fo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-5" value="bil mod 2 == 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-7" value="genap" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-9" value="Y" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KobME-BbMO1FJqO6K6Fo-10" target="KobME-BbMO1FJqO6K6Fo-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-10" value="ganjil" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KobME-BbMO1FJqO6K6Fo-12" value="end" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
