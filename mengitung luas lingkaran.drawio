@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T03:48:14.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="8Imjrq4zByIBQiyVpDO0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T04:00:36.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="mvkVGwNnyaqAnsAxcnR2" version="22.0.4" type="github">
   <diagram name="Page-1" id="cwPD7X0vRoseEOO7md54">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="G-AimzE18-ZRvghOdwDK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G-AimzE18-ZRvghOdwDK-1" target="G-AimzE18-ZRvghOdwDK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-AimzE18-ZRvghOdwDK-1" value="start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="350" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-AimzE18-ZRvghOdwDK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G-AimzE18-ZRvghOdwDK-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G-AimzE18-ZRvghOdwDK-3" value="&lt;div&gt;Lo&lt;/div&gt;&lt;div&gt;Phi&lt;/div&gt;&lt;div&gt;d&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-AimzE18-ZRvghOdwDK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="G-AimzE18-ZRvghOdwDK-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G-AimzE18-ZRvghOdwDK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G-AimzE18-ZRvghOdwDK-7" target="G-AimzE18-ZRvghOdwDK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G-AimzE18-ZRvghOdwDK-7" value="Lo =" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G-AimzE18-ZRvghOdwDK-9" value="End" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="550" y="455" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G-AimzE18-ZRvghOdwDK-11" value="Lo = phi x d" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="100" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
